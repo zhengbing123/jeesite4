@@ -24,7 +24,7 @@ import com.jeesite.common.lang.StringUtils;
 import com.jeesite.common.reflect.ReflectUtils;
 
 /**
- * 使用Jaxb2.0实现XML<->Java Object的Mapper..
+ * 使用Jaxb2.0实现XML<->Java Object的Mapper.
  * 
  * 在创建时需要设定所有需要序列化的Root对象的Class.
  * 特别支持Root对象是Collection的情形.
